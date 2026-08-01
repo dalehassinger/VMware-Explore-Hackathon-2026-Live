@@ -40,5 +40,5 @@ Deliver a useful, approachable tool that helps VMware administrators assess and 
 ---
 
 <div align="center">
-  Built with curiosity, collaboration, and a lot of coffee. ☕
+  Built with curiosity, collaboration, and a lot of Energy Drink.
 </div>
